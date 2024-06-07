@@ -7,5 +7,5 @@ I am [Aakansha Dalmia](https://www.linkedin.com/in/aakanshadalmia/), a Computer 
 - **Areas of Expertise:** Machine Learning, Natural Language Processing, Deep Learning, Recommendation System, Computer Vision
 
 ## Reading Lists
-Books have always been my best friend and my love for reading and discovering new ideas is perhaps what sparked research. In an ideal world, I would never want to forget the secrets learnt from any piece that I have ever picked up and read. Having lived in the real world though - I understood that wasn't possible and so here are some lists I have curated of late - includes both things I want to read and have already read.
+Books have always been my best friend and my love for reading and discovering new ideas is perhaps what first sparked my interest in research. In an ideal world, I would never want to forget the secrets learnt from any piece that I have ever picked up and read. Having lived in the real world though - I understood that wasn't possible and so here are some lists I have curated of late - includes both things I want to read and have already read.
 - [AI Research](https://aakanshadalmia.notion.site/Reading-List-Research-a5998c6e519040f4bc8b65801b86c73d)
